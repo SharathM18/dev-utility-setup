@@ -1,13 +1,33 @@
 # Setup Guide
 
-### React
+## React
 
 #### Install React with vite
 ```bash
 npm create vite@latest
 ```
 
-### Tailwind CSS
+#### Install React Router DOM
+```bash
+npm install react-router-dom
+```
+
+#### Install React Redux & React Redux Toolkit
+```bash
+npm install react-redux @reduxjs/toolkit
+```
+
+#### Install React Hook Form & Zod
+```bash
+npm install react-hook-form zod
+```
+
+#### Install TinyMCE React component
+```bash
+npm i @tinymce/tinymce-react
+```
+
+## Tailwind CSS
 
 #### Install Tailwind CSS with Vite
 ```bash
