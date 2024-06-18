@@ -19,7 +19,7 @@ npm install react-redux @reduxjs/toolkit
 
 #### Install React Hook Form & Zod
 ```bash
-npm install react-hook-form zod
+npm install react-hook-form @hookform/resolvers zod
 ```
 
 #### Install TinyMCE React component
